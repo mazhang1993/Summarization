@@ -2,7 +2,7 @@
 Academic Paper Summarization: Comparing different Extractive and Abstractive Models result
 
 **Project Overview**
-This project explores various summarization techniques to compare their performance and output quality, focusing specifically on academic paper summarization. Summarization models are broadly categorized into extractive and abstractive types, each suited to different use cases:
+This project explores various summarization techniques to compare their performance and output quality, focusing specifically on academic paper summarization. Summarization models are broadly categorized into extractive and abstractive types, each suited to different use cases. To use this model, you just need  to upload your PDF file into your Google Drive and copy the file path in the file_path variable to use and compare the different results.
 
 Extractive Models: Select key sentences directly from the input text. These methods are straightforward and preserve the original text's structure but may lack coherence.
 Abstractive Models: Generate summaries by rephrasing and condensing the content, often producing more natural and coherent outputs at the cost of higher computational complexity.
